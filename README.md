@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning JS, React
 - 💞️ I’m looking to collaborate on competetive problem solving
-- 📫 FB: https://www.facebook.com/faarhaan10/  Mail: www.faarhaan10@gmail.com
+- 📫 FB: https://www.facebook.com/faarhaan10/  Mail: www.farhan.elias111@gmail.com
+
 
 <!---
 faarhaan10/faarhaan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
