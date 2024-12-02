@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Farhan Elias
-- 🧑‍💻 Web Instructor at Programming Hero
+- 🧑‍💻 Software Engineer at Mediusware
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning JS, React
-- 💞️ I’m looking to collaborate on competetive problem solving
+- 🌱 I’m currently learning tRPC and Backend technologies
 - 📫 FB: https://www.facebook.com/faarhaan10/  
-- 📪 Mail: www.farhan.elias111@gmail.com || Official: farhan@programming-hero.com
+- 📪 Mail: devv.farhan@gmail.com || Official: farhan@mediusware.com
 
 
 <!---
