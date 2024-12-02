@@ -2,7 +2,7 @@
 - 🧑‍💻 Software Engineer at Mediusware
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning tRPC and Backend technologies
-- 📫 FB: https://www.facebook.com/faarhaan10/  
+- ＠ LinkedIn: www.linkedin.com/in/farhan-elias/  
 - 📪 Mail: devv.farhan@gmail.com || Official: farhan@mediusware.com
 
 
