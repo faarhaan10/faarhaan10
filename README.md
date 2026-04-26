@@ -4,12 +4,6 @@
 
 Building performant, scalable, and user-focused products with modern web technologies.
 
-<p align="left">
-  <a href="https://github.com/faarhaan10">
-    <img src="https://komarev.com/ghpvc/?username=farhanelias&label=Profile%20Views&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ## 🚀 About Me
 
 * Full-stack engineer building production-grade applications end-to-end
