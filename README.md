@@ -49,53 +49,7 @@ Building performant, scalable, and user-focused products with modern web technol
 
 ![Stripe](https://img.shields.io/badge/Stripe-black?logo=stripe)
 
-## 📌 Featured Projects
-
-### OurStoryz
-
-Scalable product platform built for modern user experiences.
-
-**Tech:** React, TypeScript, Redux, RTK Query, Styled Components, Sass, Express, MySQL, AWS SQS, Stripe, Jenkins
-
-**Highlights:**
-
-* Built scalable frontend architecture with reusable component systems
-* Integrated asynchronous workflows using AWS SQS
-* Implemented payment workflows with Stripe
-* Automated deployments with CI/CD pipelines
-
----
-
-### PetParent
-
-Pet ecosystem platform for registration, vaccination certificates, and pet-related workflows.
-
-**Tech:** Next.js, TypeScript, tRPC, PostgreSQL
-
-**Highlights:**
-
-* Built end-to-end pet lifecycle workflows
-* Designed type-safe API architecture with tRPC
-* Structured relational data models for long-term record keeping
-
----
-
-### Student Community Platform
-
-A platform where students can publish blogs, raise issues, and interact with instructors.
-
-**Tech:** Next.js, TypeScript, MongoDB, Redux, DaisyUI
-
-**Features:**
-
-* Blog publishing & content management
-* Student issue tracking
-* Instructor announcements & moderation
-* Leaderboard & reward system
-
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faarhaan10\&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faarhaan10\&layout=compact)
 
@@ -114,7 +68,7 @@ A platform where students can publish blogs, raise issues, and interact with ins
 
 ## ✍️ Writing
 
-Sharing learnings, engineering thoughts, and product-building insights. *(Add your blog link here)*
+Sharing learnings, engineering thoughts, and product-building insights.
 
 ## 🤝 Connect With Me
 
